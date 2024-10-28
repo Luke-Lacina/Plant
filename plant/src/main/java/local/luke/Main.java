@@ -1,7 +1,6 @@
 package local.luke;
 
 import java.time.DateTimeException;
-import java.time.LocalDate;
 
 public class Main {
     public static void main(String[] args) {
