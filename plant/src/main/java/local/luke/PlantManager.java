@@ -23,7 +23,7 @@ public class PlantManager {
     }
 
     public Plant getPlantOnIndex(int index) {
-        return         plants.get(index);
+        return plants.get(index);
     }
 
     public void removePlant(Plant plant) {
